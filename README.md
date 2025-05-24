@@ -22,8 +22,13 @@ Software : Python, Firebase Admin SDK, Flask, RPi.GPIO, OpenCV and a CNN model (
 Software (Mobile): Native Android application (Kotlin) to receive FCM notifications, display alerts, and view the camera feed.
 
 The primary goal of RestWatch is to provide an affordable, reliable, and user-friendly solution that empowers caregivers with timely information, improves patient safety by reducing fall risks, and contributes to better health outcomes by preventing pressure sores. This project is developed for IEEEDuino Hardware Contest. And been selected for the 10 final Projects.
+
 by
+
 -Berat Mehmet Bakı berat_baki@outlook.com
+
 -Abdurrahman Furkan Dingin
+
 -Hüseyin Esat Kara
+
 -Hatice Aydın
