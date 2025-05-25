@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494777037029",
+    "project_id": "restwatch-12c04",
+    "storage_bucket": "restwatch-12c04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494777037029:android:6b166db509fae7d8d6a40c",
+        "android_client_info": {
+          "package_name": "com.example.hastabakimapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2sA2ZjZ1HB8PRI9Pt22dXD8OkvtqCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494777037029:android:47f124c1ac40042cd6a40c",
+        "android_client_info": {
+          "package_name": "com.example.restwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2sA2ZjZ1HB8PRI9Pt22dXD8OkvtqCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
