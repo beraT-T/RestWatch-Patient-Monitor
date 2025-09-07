@@ -27,7 +27,7 @@ by
 
 -Berat Mehmet Bakı berat_baki@outlook.com
 
--Abdurrahman Furkan Dingin
+-Abdurrahman Furkan Dingin furkandingin@gmail.com
 
 -Hüseyin Esat Kara
 
